@@ -6,3 +6,5 @@ Google Play ve mağaza kayıtları için gerekli sayfalar.
 - **Destek:** [support.html](support.html) → `https://tu64yc4n64.github.io/imek_app/support.html`
 
 GitHub Pages: Repo → Settings → Pages → Deploy from branch → main → / (root).
+
+**Yeni sürüm yayınladığınızda:** `version.json` dosyasındaki `android` ve `ios` değerlerini yeni sürüm numarasıyla güncelleyip repoya push edin. Uygulama bu sayede kullanıcıya "Yeni sürüm mevcut" bildirimi gösterir.
